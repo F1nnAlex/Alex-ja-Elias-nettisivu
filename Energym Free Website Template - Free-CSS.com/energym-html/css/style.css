@@ -279,7 +279,7 @@ a:focus {
 
 .slider_section .detail-box p {
   color: #3f3f3f;
-  font-size: 2rem;
+  font-size: 20px;
   text-wrap: wrap;
 }
 
@@ -440,6 +440,7 @@ a:focus {
   display: inline-block;
   width: 150px;
   padding: 7px 0;
+  margin-top: 30px;
   background-color: #000000;
   border: 1px solid #000000;
   color: #ffffff;
@@ -567,7 +568,8 @@ a:focus {
       -ms-flex-align: center;
           align-items: center;
   text-align: center;
-  margin: 25px 10px 0 10px;
+  width: 400px;
+  margin: 25px 50px 0 50px;
 }
 
 .us_section .us_container .box .img-box {
